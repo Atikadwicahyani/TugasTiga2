@@ -1,0 +1,30 @@
+D:\Pemrog Lanjut\TugasTiga2\TugasTiga2\bin\Debug\TugasTiga2.exe.config
+D:\Pemrog Lanjut\TugasTiga2\TugasTiga2\bin\Debug\TugasTiga2.exe
+D:\Pemrog Lanjut\TugasTiga2\TugasTiga2\bin\Debug\TugasTiga2.pdb
+D:\Pemrog Lanjut\TugasTiga2\TugasTiga2\obj\Debug\TugasTiga2.csprojAssemblyReference.cache
+D:\Pemrog Lanjut\TugasTiga2\TugasTiga2\obj\Debug\TugasTiga2.frmTugasTiga2.resources
+D:\Pemrog Lanjut\TugasTiga2\TugasTiga2\obj\Debug\TugasTiga2.Properties.Resources.resources
+D:\Pemrog Lanjut\TugasTiga2\TugasTiga2\obj\Debug\TugasTiga2.csproj.GenerateResource.cache
+D:\Pemrog Lanjut\TugasTiga2\TugasTiga2\obj\Debug\TugasTiga2.csproj.CoreCompileInputs.cache
+D:\Pemrog Lanjut\TugasTiga2\TugasTiga2\obj\Debug\TugasTiga2.exe
+D:\Pemrog Lanjut\TugasTiga2\TugasTiga2\obj\Debug\TugasTiga2.pdb
+D:\TugasTiga2-master\TugasTiga2\bin\Debug\TugasTiga2.exe.config
+D:\TugasTiga2-master\TugasTiga2\bin\Debug\TugasTiga2.exe
+D:\TugasTiga2-master\TugasTiga2\bin\Debug\TugasTiga2.pdb
+D:\TugasTiga2-master\TugasTiga2\obj\Debug\TugasTiga2.csproj.AssemblyReference.cache
+D:\TugasTiga2-master\TugasTiga2\obj\Debug\TugasTiga2.frmTugasTiga2.resources
+D:\TugasTiga2-master\TugasTiga2\obj\Debug\TugasTiga2.Properties.Resources.resources
+D:\TugasTiga2-master\TugasTiga2\obj\Debug\TugasTiga2.csproj.GenerateResource.cache
+D:\TugasTiga2-master\TugasTiga2\obj\Debug\TugasTiga2.csproj.CoreCompileInputs.cache
+D:\TugasTiga2-master\TugasTiga2\obj\Debug\TugasTiga2.exe
+D:\TugasTiga2-master\TugasTiga2\obj\Debug\TugasTiga2.pdb
+D:\Tugas Sekolah\UNIVERSITAS AMIKOM YOGYAKARTA\semester 3\pempro lanjut\03.BasicWinFormApp\TugasTiga2\TugasTiga2\bin\Debug\TugasTiga2.exe.config
+D:\Tugas Sekolah\UNIVERSITAS AMIKOM YOGYAKARTA\semester 3\pempro lanjut\03.BasicWinFormApp\TugasTiga2\TugasTiga2\bin\Debug\TugasTiga2.exe
+D:\Tugas Sekolah\UNIVERSITAS AMIKOM YOGYAKARTA\semester 3\pempro lanjut\03.BasicWinFormApp\TugasTiga2\TugasTiga2\bin\Debug\TugasTiga2.pdb
+D:\Tugas Sekolah\UNIVERSITAS AMIKOM YOGYAKARTA\semester 3\pempro lanjut\03.BasicWinFormApp\TugasTiga2\TugasTiga2\obj\Debug\TugasTiga2.csproj.AssemblyReference.cache
+D:\Tugas Sekolah\UNIVERSITAS AMIKOM YOGYAKARTA\semester 3\pempro lanjut\03.BasicWinFormApp\TugasTiga2\TugasTiga2\obj\Debug\TugasTiga2.frmTugasTiga2.resources
+D:\Tugas Sekolah\UNIVERSITAS AMIKOM YOGYAKARTA\semester 3\pempro lanjut\03.BasicWinFormApp\TugasTiga2\TugasTiga2\obj\Debug\TugasTiga2.Properties.Resources.resources
+D:\Tugas Sekolah\UNIVERSITAS AMIKOM YOGYAKARTA\semester 3\pempro lanjut\03.BasicWinFormApp\TugasTiga2\TugasTiga2\obj\Debug\TugasTiga2.csproj.GenerateResource.cache
+D:\Tugas Sekolah\UNIVERSITAS AMIKOM YOGYAKARTA\semester 3\pempro lanjut\03.BasicWinFormApp\TugasTiga2\TugasTiga2\obj\Debug\TugasTiga2.csproj.CoreCompileInputs.cache
+D:\Tugas Sekolah\UNIVERSITAS AMIKOM YOGYAKARTA\semester 3\pempro lanjut\03.BasicWinFormApp\TugasTiga2\TugasTiga2\obj\Debug\TugasTiga2.exe
+D:\Tugas Sekolah\UNIVERSITAS AMIKOM YOGYAKARTA\semester 3\pempro lanjut\03.BasicWinFormApp\TugasTiga2\TugasTiga2\obj\Debug\TugasTiga2.pdb
